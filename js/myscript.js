@@ -6,7 +6,8 @@ var app = new Vue(
    {
      el: '#root',
      data: {
-       message: "Hello World"
+       message: "Hello World",
+       image: "https://www.cinematographe.it/wp-content/uploads/2020/05/x1080.jpg"
      }
    }
 );
